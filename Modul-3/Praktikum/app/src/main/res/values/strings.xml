@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">IntentKotlin</string>
+    <string name="deks">Pemadam kebakaran, disingkat damkar, adalah orang atau pasukan yang bertugas memadamkan kebakaran, melakukan penyelamatan,
+        dan menanggulangi bencana atau kejadian lainya.  Petugas pemadam kebakaran selain terlatih untuk menyelamatkan korban dari kebakaran atau
+        melakukan pemadaman, juga dilatih untuk menyelamatkan korban-korban bencana seperti kecelakaan lalu lintas, gedung runtuh, banjir, gempa bumi,
+        dll.
+        <p>
+        \\n
+        Di lain hal, mereka juga ditugaskan untuk melakukan tugas-tugas penyelamatan yang tidak menyangkut adanya kebakaran seperti pengevakuasian
+        sarang tawon, menyelamatkan korban bunuh diri, menyelamatkan orang atau hewan yang terjebak, menanggulangi pohon tumbang, dll.
+        Pemadam kebakaran juga terkadang ditugaskan untuk memberi sosialisasi dan pendidikan kepada rakyat sipil tentang kebakaran dan cara
+        menanggapinya.</p>
+        \\n<p>
+        Petugas pemadam kebakaran selain terlatih untuk menyelamatkan korban dari kebakaran atau melakukan pemadaman,
+        juga dilatih untuk menyelamatkan korban-korban bencana seperti kecelakaan lalu lintas, gedung runtuh, banjir, gempa bumi, dll.
+        Di lain hal, mereka juga ditugaskan untuk melakukan tugas-tugas penyelamatan yang tidak menyangkut adanya kebakaran seperti pengevakuasian
+        sarang tawon, menyelamatkan korban bunuh diri, menyelamatkan orang atau hewan yang terjebak, menanggulangi pohon tumbang, dll.</p>
+        \\n <p>
+        Pemadam kebakaran juga terkadang ditugaskan untuk memberi sosialisasi dan pendidikan kepada rakyat sipil tentang kebakaran dan cara
+        menanggapinya.</p>
+    </string>
+</resources>
